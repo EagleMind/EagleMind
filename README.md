@@ -7,4 +7,3 @@
 
 ## 📫 How to reach me
 - **Email:** hassen.ben.mbarek@gmail.com
-- **LinkedIn:** [Link to your profile]
