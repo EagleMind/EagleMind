@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="800" height="150" role="img" aria-label="Hassen Ben Mbarek: side projects, built for fun">
+  <style>
+    .name { font: 700 40px ui-sans-serif, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; letter-spacing: -0.5px; }
+    .cmd  { font: 18px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #9198a1; }
+    .accent { fill: #f59e0b; }
+    .cursor { fill: #f59e0b; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="type">
+      <rect x="40" y="88" height="30" width="324.0">
+        <animate attributeName="width" values="0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;172.8;183.6;194.4;205.2;216.0;226.8;237.6;248.4;259.2;270.0;280.8;291.6;302.4;313.2;324.0" keyTimes="0;0.2222;0.2481;0.2741;0.3;0.3259;0.3519;0.3778;0.4037;0.4296;0.4556;0.4815;0.5074;0.5333;0.5593;0.5852;0.6111;0.637;0.663;0.6889;0.7148;0.7407;0.7667;0.7926;0.8185;0.8444;0.8704;0.8963;0.9222;0.9481;0.9741" dur="2.70s" calcMode="discrete" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect class="accent" x="40" y="22" width="28" height="4" rx="2"/>
+  <text class="name" x="40" y="72">Hassen Ben Mbarek</text>
+  <text class="cmd" x="40" y="110" textLength="324" lengthAdjust="spacingAndGlyphs" clip-path="url(#type)" xml:space="preserve"><tspan class="accent">$</tspan> side projects, built for fun</text>
+  <rect class="cursor" x="366.0" y="94" width="10" height="20">
+    <animate attributeName="x" values="42;52.8;63.6;74.4;85.2;96.0;106.8;117.6;128.4;139.2;150.0;160.8;171.6;182.4;193.2;204.0;214.8;225.6;236.4;247.2;258.0;268.8;279.6;290.4;301.2;312.0;322.8;333.6;344.4;355.2;366.0" keyTimes="0;0.2222;0.2481;0.2741;0.3;0.3259;0.3519;0.3778;0.4037;0.4296;0.4556;0.4815;0.5074;0.5333;0.5593;0.5852;0.6111;0.637;0.663;0.6889;0.7148;0.7407;0.7667;0.7926;0.8185;0.8444;0.8704;0.8963;0.9222;0.9481;0.9741" dur="2.70s" calcMode="discrete" fill="freeze"/>
+  </rect>
+</svg>
