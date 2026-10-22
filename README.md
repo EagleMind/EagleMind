@@ -20,7 +20,7 @@ I'm Hassen. These are the things I build for fun, mostly small tools that take o
   </tr>
   <tr>
     <td><a href="https://github.com/EagleMind/querylens"><b>QueryLens</b></a></td>
-    <td>Finds the N+1 your ORM wrote, names the line that wrote it, and tests the index before suggesting it.<br><sub>Rust · Tauri · PostgreSQL · MCP</sub></td>
+    <td>An error tracker for your database traffic. It traces every query your Node.js app sends to Postgres, MySQL, SQLite or MongoDB back to its line of code, flags N+1s, slow and failing queries and anything that got slower since your last deploy, and hands your coding agent the fix.<br><sub>Node.js SDK · Rust → WebAssembly · Cloudflare Workers · MCP</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/EagleMind/flarecraft"><b>flarecraft</b></a></td>
